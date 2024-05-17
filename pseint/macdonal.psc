@@ -14,7 +14,7 @@ Proceso macdonalds
 		
 		Segun Opc Hacer
 			1:
-				Escribir "1  - McCombo Grande Big Mac";
+				Escribir "1 - McCombo Grande Big Mac";
 				Escribir "2 - McCombo Cuarto de Libra";
 				Escribir "3 - McCombo Doble Cuarto de Libra";
 				Escribir "4 - McCombo Grande McPollo";
@@ -32,13 +32,13 @@ Proceso macdonalds
 				Escribir "Precio: $9,400 CLP.";
 				Escribir "McCombo Grande McPollo: Incluye una hamburguesa McPollo, papas fritas grandes y una bebida grande.";
 				Escribir "Precio: $6,900 CLP.";
-				Escribir "Triple Hamburguesa con Queso: Tres hamburguesas con doble queso, acompañadas con mostaza, ketchup, cebolla y pepinillo, más papas fritas y una bebida grande.";
+				Escribir "Triple Hamburguesa con Queso: Tres hamburguesas con doble queso, acompaÃ±adas con mostaza, ketchup, cebolla y pepinillo, mÃ¡s papas fritas y una bebida grande.";
 				Escribir "Precio: $5,100 CLP.";
-				Escribir "McCombo Grande Tasty 1 Carne: Incluye una hamburguesa Tasty de una carne, con salsa tasty, tres quesos, lechuga, cebolla fresca y tomate, más papas fritas grandes y una bebida grande.";
+				Escribir "McCombo Grande Tasty 1 Carne: Incluye una hamburguesa Tasty de una carne, con salsa tasty, tres quesos, lechuga, cebolla fresca y tomate, mÃ¡s papas fritas grandes y una bebida grande.";
 				Escribir "Precio: $7,669 CLP.";
 				Escribir "McCombo Grande McNuggets de 10: Incluye 10 McNuggets de pollo, papas fritas grandes y una bebida grande.";
 				Escribir "Precio: $6,172 CLP.";
-				Escribir "Family Box para 3 Adultos: Incluye tres hamburguesas a elección, tres papas fritas grandes y dos porciones de empanadas.";
+				Escribir "Family Box para 3 Adultos: Incluye tres hamburguesas a elecciÃ³n, tres papas fritas grandes y dos porciones de empanadas.";
 				Escribir "Precio: $24,900 CLP.";
 			3:
 				
